@@ -5,3 +5,8 @@
 - 💬 Mostly liking to share the knowledge about Web Application Development
 - 🎯 2023 Goals: Become a Professional Software Engineer and expertise in the field of Software Engineering
 - 📫 Catch me on LinkedIn: [linkedin](www.linkedin.com/in/kavindu-deshan-chandrasiri)
+
+## 👦 ABOUT ME
+
+I'm **Kavindu Deshan**. A **Full Stack Developer** in Sri Lanka. I am a Motivated, Enthusiastic, Passionate Person ready to accept Challenges and Achieve them along the way.
+Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need. 🤗
