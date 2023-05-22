@@ -6,7 +6,7 @@
 - ✌️ Enjoy to do **programming and sharing knowledge**
 - ❤️ Love to **writing code and learning new features**
 - 📧 Reach me anytime: kkavindu.deshan@outlook.com
-- 📫 Catch me on LinkedIn: [linkedin](www.linkedin.com/in/kavindu-deshan-chandrasiri)
+- 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/in/kavindu-deshan-chandrasiri/)
 
 ## 👦 ABOUT ME
 
