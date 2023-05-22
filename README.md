@@ -1,12 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=%2364F74E&lines=Hi+there!%F0%9F%91%8B;I'm+Deshan...;Welcome+to+my+profile!)](https://git.io/typing-svg)
-## A Passionate Fullstack Developer
+##  A Passionate Fullstack Developer 👦
 
-- 💻 Currently studying **MERN Stack and Mobile application development**
-- 💬 Mostly liking to share the knowledge about Web Application Development
-- 🎯 2023 Goals: Become a Professional Software Engineer and expertise in the field of Software Engineering
-- 📫 Catch me on LinkedIn: [linkedin](www.linkedin.com/in/kavindu-deshan-chandrasiri)
+<p>
+ <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 👨‍💻 &emsp; Currently studying **MERN Stack and Mobile application development**<br/><br/>
+ 📧 &emsp; Reach me anytime: kkavindu.deshan@outlook.com<br/><br/>
+ 📫 &emsp; Catch me on LinkedIn: [linkedin](www.linkedin.com/in/kavindu-deshan-chandrasiri)
 
-## 👦 ABOUT ME
+</p> 
 
-I'm **Kavindu Deshan**. A **Full Stack Developer** in Sri Lanka. I am a Motivated, Enthusiastic, Passionate Person ready to accept Challenges and Achieve them along the way.
-Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need. 🤗
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
