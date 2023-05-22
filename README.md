@@ -15,7 +15,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 
 ### Contact Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Deshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kavindu-deshan-chandrasiri/)](https://linkedin.com/in/kavindu-deshan-chandrasiri)
+[![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Deshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kavindu-deshan-chandrasiri/)](https://www.linkedin.com/in/kavindu-deshan-chandrasiri/)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-kkavindu.deshan@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkavindu.deshan@outlook.com)](mailto:kkavindu.deshan@outlook.com)
 &nbsp;
