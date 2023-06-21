@@ -90,10 +90,10 @@ Believing that the way of heading forward with the surrounding ones is much bles
 <!-- <br/> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeshanGitHub&layout=compact)](https://github.com/DeshanGitHub/github-readme-DeshanGitHub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeshanGitHub&layout=compact&theme=gotham)](https://github.com/DeshanGitHub/github-readme-DeshanGitHub)
 
-![Deshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeshanGitHub&theme=radical&show_icons=true)
+![Deshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeshanGitHub&theme=blue-green&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeshanGitHub&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeshanGitHub&theme=blue-green)](https://git.io/streak-stats)
 
 
