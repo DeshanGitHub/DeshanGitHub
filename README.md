@@ -15,7 +15,7 @@
 I'm **Kavindu Deshan**. A **Full Stack Developer** in Sri Lanka. I am a Motivated, Enthusiastic, Passionate Person ready to accept Challenges and Achieve them along the way.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need. 🤗
 
-### Contact Me:
+### Connect with me :
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Deshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kavindu-deshan-chandrasiri/)](https://www.linkedin.com/in/kavindu-deshan-chandrasiri/)
 &nbsp;
