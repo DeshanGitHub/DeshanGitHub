@@ -21,7 +21,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-kkavindu.deshan@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkavindu.deshan@outlook.com)](mailto:kkavindu.deshan@outlook.com)
 &nbsp;
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kkavindu_deshan)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kkavindu_deshan)
 
 ## SKILLS & TOOLS
 <p>
