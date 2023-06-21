@@ -107,6 +107,6 @@ Believing that the way of heading forward with the surrounding ones is much bles
 
 ![Deshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeshanGitHub&theme=radical&border=7F3FBF&background=0D1117&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeshanGitHub&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeshanGitHub&theme=radical&border=7F3FBF&background=0D1117)](https://git.io/streak-stats)
 
 
