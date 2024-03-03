@@ -71,8 +71,6 @@ Believing that the way of heading forward with the surrounding ones is much bles
 <!-- &nbsp; -->
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-&nbsp;
 <!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code> -->
 <!-- &nbsp; -->
 <!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code> -->
@@ -84,6 +82,11 @@ Believing that the way of heading forward with the surrounding ones is much bles
 <!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code> -->
 <!-- &nbsp; -->
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+&nbsp;
 </p>
 
 
