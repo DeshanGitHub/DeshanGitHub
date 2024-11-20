@@ -15,13 +15,13 @@
 I'm **Kavindu Deshan**. A **Full Stack Developer** in Sri Lanka. I am a Motivated, Enthusiastic, Passionate Person ready to accept Challenges and Achieve them along the way.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need. 🤗
 
-### Connect with me :
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me :
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Deshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kavindu-deshan-chandrasiri/)](https://www.linkedin.com/in/kavindu-deshan-chandrasiri/)
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-kkavindu.deshan@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkavindu.deshan@outlook.com)](mailto:kkavindu.deshan@outlook.com)
-&nbsp;
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kkavindu_deshan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kavindu-deshan-chandrasiri/"><img src="https://img.shields.io/badge/Kavindu_Deshan-%230A66C2.svg?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:kkavindu.deshan@outlook.com"><img img src="https://img.shields.io/badge/kkavindu.deshan@outlook.com-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://www.hackerrank.com/kkavindu_deshan"><img src="https://img.shields.io/badge/HackerRank-%2325D366.svg?style=plastic&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+</p>
 
 ## SKILLS & TOOLS
 <p>
