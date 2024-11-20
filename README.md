@@ -21,7 +21,6 @@ Believing that the way of heading forward with the surrounding ones is much bles
   	<a href="https://www.linkedin.com/in/kavindu-deshan-chandrasiri/"><img src="https://img.shields.io/badge/Kavindu_Deshan-%230A66C2.svg?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:kkavindu.deshan@outlook.com"><img img src="https://img.shields.io/badge/kkavindu.deshan@outlook.com-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://www.hackerrank.com/kkavindu_deshan"><img src="https://img.shields.io/badge/HackerRank-%2325D366.svg?style=plastic&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
-	<a href="mailto:kkavindu.deshan@outlook.com"><img img src="https://img.shields.io/badge/kkavindu.deshan@outlook.com-%23EA4335.svg?style=plastic&logoColor=white" alt="Email"/></a>
 </p>
 
 ## SKILLS & TOOLS
